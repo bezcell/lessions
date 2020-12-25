@@ -1,0 +1,5 @@
+Ivanov 100000
+Sobolev 120000
+Petrov 15000
+Sosisochka 19999
+Williams 240000
